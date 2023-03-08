@@ -2,7 +2,7 @@
 import spacy
 
 # initialize spaCy
-nlp = spacy.load("en_core_web_lg")
+nlp = spacy.load("en_core_web_md")
 
 # defining main function
 def main():
