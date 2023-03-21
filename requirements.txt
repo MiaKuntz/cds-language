@@ -1,4 +1,10 @@
 matplotlib
+<<<<<<< HEAD
 scikit-learn
 pandas
 numpy
+=======
+numpy
+pandas
+tensorflow-cpu
+>>>>>>> CDS-AU-DK-main
