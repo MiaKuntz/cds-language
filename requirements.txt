@@ -1,9 +1,3 @@
-matplotlib
-scikit-learn
-pandas
-numpy
-tensorflow-cpu
 bertopic
 scikit-learn
 pandas
->>>>>>> 52da4eb463d16bfca02f995c5dad9056e2bfb02c
